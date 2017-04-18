@@ -1,0 +1,2 @@
+# netinfo
+Random training shit
